@@ -1,0 +1,2 @@
+# BlueDentalLaravel
+Sistema BlueDental.
